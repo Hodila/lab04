@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/lab33333/Temperature.h
+sstream
+-
+iostream
+-
+
+C:/lab33333/main.cpp
+iostream
+-
+vector
+-
+Temperature.h
+C:/lab33333/Temperature.h
+

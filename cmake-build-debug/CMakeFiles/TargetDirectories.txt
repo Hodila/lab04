@@ -1,0 +1,5 @@
+C:/lab33333/cmake-build-debug/CMakeFiles/lab01.dir
+C:/lab33333/cmake-build-debug/CMakeFiles/test_input.dir
+C:/lab33333/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/lab33333/cmake-build-debug/CMakeFiles/test.dir
+C:/lab33333/cmake-build-debug/CMakeFiles/edit_cache.dir
